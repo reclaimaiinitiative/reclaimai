@@ -1,4 +1,4 @@
-# ReclaimAI 🚀  
+# ReclaimAI
 **The Open-Source Movement to End Smoking & Fund Global Mental Health**  
 
 ## 🔥 What is ReclaimAI?  
